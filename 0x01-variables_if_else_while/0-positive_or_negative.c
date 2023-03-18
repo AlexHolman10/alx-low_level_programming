@@ -2,7 +2,7 @@
 #include <time.h>
 #include <stdio.h>
 /*
-main - Returns random number, each execution.
+* main - Returns random number, each execution.
 * Description: This program will assign a random number
 * to the variable n each time it is executed.
 * Return: 0
